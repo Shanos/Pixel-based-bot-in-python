@@ -20,7 +20,7 @@ from lib import hk, utilities, windowTitles
 class GUI:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Carnufex@Github")
+        self.root.title("Shanos@Github")
         self.root.geometry('700x500')
         self.root.resizable(width=False, height=False)
 

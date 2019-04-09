@@ -20,7 +20,7 @@
 
 
 # Libraries
-pip install opencv-python pyautogui pytesseract pillow
+pip install opencv-python pyautogui pytesseract pillow pywin32 pynput
 
 # Other
 AHK script included to keep window of choice on top with (ctrl + space)
